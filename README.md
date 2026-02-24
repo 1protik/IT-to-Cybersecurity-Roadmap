@@ -1,6 +1,6 @@
 # IT to Cybersecurity Roadmap
 
-This repository provides a *structured, easy-to-achieve plan* for IT professionals (with 5+ years of IT support experience) who want to transition into cybersecurity.  
+This repository provides a *structured, easy-to-achieve plan* for IT professionals who want to transition into Cybersecurity.  
 
 It focuses on:
 - Building skills that overlap IT and Cybersecurity
